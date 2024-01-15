@@ -31,3 +31,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravg8&" alt="gouravg8" /></p>
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gouravg8/gouravg8/output/snake.svg" alt="Snake animation" />
+
+###
