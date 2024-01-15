@@ -81,18 +81,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
---->
+-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravg8&show_icons=true&locale=en&layout=compact" alt="gouravg8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravg8&show_icons=true&locale=en" alt="gouravg8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravg8&" alt="gouravg8" /></p>
-
-
-
-
-
-
+<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravg8&" alt="gouravg8" /></p>--->
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gouravg8)](https://git.io/streak-stats)
