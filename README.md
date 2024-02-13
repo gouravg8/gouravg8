@@ -89,7 +89,7 @@
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravg8&" alt="gouravg8" /></p>--->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gouravg8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gouravg8&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
