@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav soni</h1>
-<h3 align="center">A passionate frontend developer from New Delhi(India)</h3>
+<h3 align="center">A passionate Fullstack developer from New Delhi(India)</h3>
 
 - 🌱 I’m currently learning **Javascript, React**
 
