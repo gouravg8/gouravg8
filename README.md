@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gourav soni</h1>
-<h3 align="center">A passionate Fullstack developer from New Delhi(India)</h3>
+<h1 align="center">Hi, I'm Gourav</h1>
+<h3 align="center">Night owl developer from New Delhi(India)</h3>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I am currently learning **Spring Boot** and making apps with **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gouravg8](https://github.com/gouravg8)
+- 👨‍💻 Currently interning in an StartUp as a **Frontend Developer**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React**
+- 💬 Ask me about **Javascript, React, NextJs**
 
 - 📫 How to reach me **gouravsinghh3210@gmail.com**
 
