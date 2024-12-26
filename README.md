@@ -14,6 +14,7 @@
 <a href="https://twitter.com/gouravsoni88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gouravsoni88" height="30" width="40" /></a>
 <a href="https://instagram.com/g4rawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g4rawan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gourav8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gourav8" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/gouravsoni8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gouravsoni8" height="30" width="40" /></a>
 </p>
 
 
