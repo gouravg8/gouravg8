@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Gourav</h1>
 <h3 align="center">Night owl developer from New Delhi(India)</h3>
 
-- 🌱 I am currently learning **Spring Boot** and making apps with **NextJs**
+- 🌱 I am currently learning **Go Lang** and making apps with **NextJs/ReactJs**
 
-- 👨‍💻 Currently interning in an StartUp as a **Frontend Developer**
+- 👨‍💻 Currently working in Gurgaon based StartUp as a **Frontend Developer**
 
 - 💬 Ask me about **Javascript, React, NextJs**
 
